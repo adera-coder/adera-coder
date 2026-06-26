@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm adera-coder 👋
 
-<!--
-**adera-coder/adera-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Smart-contract & full-stack developer building on EVM chains and **Ritual**.
 
-Here are some ideas to get you started:
+### What I work with
+- **Solidity** — secure contract patterns: commit-reveal, access control, safe payouts
+- **Hardhat 3** & **Foundry / forge-std** for testing
+- **TypeScript**, **Next.js**, **viem** / **wagmi** for dApp frontends
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Recent work
+- **Privacy-Preserving AI Bounty Judge** — a commit-reveal bounty contract on Ritual Chain with batch AI judging and a Next.js dApp.
+  → https://github.com/adera-coder/ritual-chain-workshop
+
+### Currently
+Learning and shipping in the Ritual Academy. Open to collaborating on web3 projects.
